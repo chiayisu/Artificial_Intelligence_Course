@@ -11,7 +11,9 @@ This course introduces the applications of Artificial Intelligence: Computer Vis
 * Related Frameworks
   1. [Detectron2: A PyTorch based modular object detection library](https://github.com/facebookresearch/detectron2)
 ## Citation
-Most of the course materials refer to [Stanford University CS224N](http://web.stanford.edu/class/cs224n/) 2019 edition.
+* Most of the course materials refer to [Stanford University CS224N](http://web.stanford.edu/class/cs224n/) 2019 edition.
+* Code stylys mainly refer to [斎藤康毅, Deep Learning 2: 用Python進行自然語言處理的基礎理論實作.](https://github.com/oreilly-japan/deep-learning-from-scratch-2)
+
 
 
 
