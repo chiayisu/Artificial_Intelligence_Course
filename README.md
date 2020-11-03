@@ -23,7 +23,8 @@ This course introduces the applications of Artificial Intelligence: Computer Vis
   2. [Regular Expressions in Practical NLP](https://www.youtube.com/watch?v=8rxdwu_-mvg&list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&index=3&t=0s&ab_channel=stanfordonline)
 ## Lecture 3: Multi-Modal Dialog System
 * please refer to [Visual Question Answering and Dialog Workshop](https://visualqa.org/workshop.html), this lecture mainly summarizes some talks at this workshop.
-
+## Lecture 4: 白血病醫學文件分類
+* Lecture Slides: [PPT](Slides/PPT/白血病醫學文件分類.pptx), [PDF](Slides/PDF/白血病醫學文件分類.pdf)
 
 
 ## Useful Resources
