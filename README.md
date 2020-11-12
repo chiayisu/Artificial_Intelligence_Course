@@ -25,7 +25,8 @@ This course introduces the applications of Artificial Intelligence: Computer Vis
 * please refer to [Visual Question Answering and Dialog Workshop](https://visualqa.org/workshop.html), this lecture mainly summarizes some talks at this workshop.
 ## Lecture 4: 白血病醫學文件分類
 * Lecture Slides: [PPT](Slides/PPT/白血病醫學文件分類.pptx), [PDF](Slides/PDF/白血病醫學文件分類.pdf)
-
+## Lecture 5: Word2Vector
+* Lecture Slides: [PPT](Slides/PPT/Word2Vector.pptx), [PDF](Slides/PDF/Word2Vector.pdf)
 
 ## Useful Resources
 1. [Scikit-Learn](https://scikit-learn.org/stable/)
