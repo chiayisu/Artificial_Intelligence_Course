@@ -27,7 +27,14 @@ This course introduces the applications of Artificial Intelligence: Computer Vis
 * Lecture Slides: [PPT](Slides/PPT/白血病醫學文件分類.pptx), [PDF](Slides/PDF/白血病醫學文件分類.pdf)
 ## Lecture 5: Word2Vector
 * Lecture Slides: [PPT](Slides/PPT/Word2Vector.pptx), [PDF](Slides/PDF/Word2Vector.pdf)
-
+* Related Papers
+  1. [Distributed Representations of Words and Phrases and their Compositionality](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+  2. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+## Lecture 6: Advanced Word Vector
+* Lecture Slides: [PPT](Slides/PPT/Advanced_Word_Vector.pptx), [PDF](Slides/PDF/Advanced_Word_Vector.pdf)
+* Related Papers
+  1. [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
+  2. [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320)
 ## Useful Resources
 1. [Scikit-Learn](https://scikit-learn.org/stable/)
 2. [Pytorch](https://pytorch.org/)
